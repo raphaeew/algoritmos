@@ -1,3 +1,4 @@
+# 18. Leia números até que o usuário digite 0 e mostre a soma.
 soma = 0
 
 numero = int(input("Digite um número: "))

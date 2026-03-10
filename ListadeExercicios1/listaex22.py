@@ -8,4 +8,4 @@ for letras in p:
     if letras in "aeiouAEIOU":
         vogais = vogais + 1
 
-print("Qntidade de vogais: ",vogais)
+print("quantidade de vogais: ",vogais)

@@ -1,7 +1,4 @@
 # 19. Conte quantos números pares existem entre 1 e 50.
-
-# 19. Conte quantos números pares existem entre 1 e 50
-
 contador = 0
 
 for i in range(1, 51):
